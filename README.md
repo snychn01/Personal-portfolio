@@ -1,3 +1,2 @@
-# Project-Rubric
-A portfolio site
-LIVE DEMO: http://sunnychouhan01.000webhostapp.com/portfolio/index.html
+# Personal-portfolio
+LIVE DEMO: http://sunnychouhanrepo.000webhostapp.com/Personal-portfolio/index.html
